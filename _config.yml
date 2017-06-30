@@ -47,6 +47,7 @@ highlight:
 default_category: uncategorized
 category_map:
   游记: travels
+  个人: private
 
 tag_map:
 

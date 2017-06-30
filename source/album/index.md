@@ -1,16 +1,21 @@
+---
 title: 我的相册
 noDate: "true"
 ---
 
-![死人沟](http://7xodcg.com1.z0.glb.clouddn.com/rayblog1.jpg)
-![青藏铁路](http://7xodcg.com1.z0.glb.clouddn.com/rayblog2.jpg)
-![纳木错-相依](http://7xodcg.com1.z0.glb.clouddn.com/rayblog3.jpg)
-![纳木错-遇](http://7xodcg.com1.z0.glb.clouddn.com/rayblog4.jpg)
-![巴音布鲁克](http://7xodcg.com1.z0.glb.clouddn.com/rayblog5.jpg)
-![219阿里-腿](http://7xodcg.com1.z0.glb.clouddn.com/rayblog6.jpg)
-![布达拉](http://7xodcg.com1.z0.glb.clouddn.com/rayblog7.jpg)
-![天空](http://7xodcg.com1.z0.glb.clouddn.com/rayblog8.jpg)
+<link type="text/css" href="/ins.css" rel="stylesheet">
+<link type="text/css" href="/jquery.fancybox.css" rel="stylesheet">
 
+<div class="instagram">
+    <section class="archives album">
+        <ul class="img-box-ul"></ul>
+    </section>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+<script src="/jquery.lazyload.js"></script>
+<script src="/jquery.fancybox.js"></script>
+<script src="/photos.js"></script>
 
 ## <!-- -->
 
