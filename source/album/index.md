@@ -4,18 +4,21 @@ noDate: "true"
 ---
 
 <link type="text/css" href="/ins.css" rel="stylesheet">
-<link type="text/css" href="/jquery.fancybox.css" rel="stylesheet">
 
-<div class="instagram">
-    <section class="archives album">
-        <ul class="img-box-ul"></ul>
-    </section>
+<div class="myalbums"><div class="albums"><figure class="thumb"><div class="myalbums-box"><a href="./tibet/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/P1240804.jpg"></a></div><figcaption>西藏</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./xinjiang/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/rayblog5.jpg"></a></div><figcaption>新疆</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./qinghai/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/rayblogP6300198.JPG"></a></div><figcaption>青海</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./gansu/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/P7050763.JPG"></a></div><figcaption>甘肃</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./guilin/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/PC030066.JPG"></a></div><figcaption>桂林</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./dongbei/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/IMG_5905.JPG"></a></div><figcaption>东北</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./hongkong/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/P2181871.JPG"></a></div><figcaption>香港</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./thailand/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/P6022551.JPG"></a></div><figcaption>泰国</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./life/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/P5200079.JPG"></a></div><figcaption>随拍</figcaption>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./me/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/IMG_20150728_111257.jpg"></a></div><figcaption>我</figcaption>
+</figure>
+</figure><figure class="thumb"><div class="myalbums-box"><a href="./private/"><img src="http://7xodcg.com1.z0.glb.clouddn.com/lock.jpg"></a></div><figcaption>个人</figcaption>
+</div>			
 </div>
-
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="/jquery.lazyload.js"></script>
-<script src="/jquery.fancybox.js"></script>
-<script src="/photos.js"></script>
 
 ## <!-- -->
 
