@@ -1,6 +1,9 @@
 <footer id="footer">
   <div class="outer">
     <div id="footer-info">
+		<span id="busuanzi_container_site_uv">
+			您是本站第 <span id="busuanzi_value_site_uv"></span> 位访客
+		</span>
     	<div class="footer-left">
     		&copy; <%= date(new Date(), 'YYYY') %> <%= config.author || config.title %>
     	</div>
@@ -9,4 +12,5 @@
       	</div>
     </div>
   </div>
+  <script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js"></script>
 </footer>
