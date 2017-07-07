@@ -1,5 +1,5 @@
 ---
-title: 新疆
+title: 西北
 noDate: "true"
 ---
 
@@ -17,7 +17,7 @@ noDate: "true"
 
 <script>
 	var that = this;
-	$.getJSON("xinjiang.json", function (data) {
+	$.getJSON("xibei.json", function (data) {
 		that.render(that.page, data);
 	});
 </script>
